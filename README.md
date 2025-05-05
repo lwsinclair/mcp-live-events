@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mmmaaatttttt-mcp-live-events-badge.png)](https://mseep.ai/app/mmmaaatttttt-mcp-live-events)
+
 # MCP Live Events Server
 
 `mcp-live-events` is a Model Context Protocol (MCP) server that integrates with
